@@ -23,8 +23,6 @@ Effortlessly manage your hotel's supplies with this powerful and intuitive Inven
 - 🗄️ **Database**: MongoDB  
 - 🔁 **API Testing**: Postman
 
-## 📸 Screenshots
-
 
 ## 🧪 How to Run Locally
 
