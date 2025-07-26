@@ -25,7 +25,6 @@ Effortlessly manage your hotel's supplies with this powerful and intuitive Inven
 
 ## 📸 Screenshots
 
-*(Add your UI screenshots here to make it more engaging)*
 
 ## 🧪 How to Run Locally
 
